@@ -1,2 +1,2 @@
 # safepdfreader
-Safe Pdf Reader
+Safe PDF Reader
